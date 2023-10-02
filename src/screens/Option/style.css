@@ -1,0 +1,76 @@
+.option {
+  background-color: #ffffff;
+  height: 812px;
+  position: relative;
+  width: 375px;
+}
+
+.option .overlap {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #00000033;
+  border-radius: 6px;
+  height: 52px;
+  left: 34px;
+  position: absolute;
+  top: 462px;
+  width: 307px;
+}
+
+.option .text-wrapper {
+  color: #73ab6b;
+  font-family: "Roboto", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 106px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 93px;
+}
+
+.option .group {
+  height: 50px;
+  left: 35px;
+  position: absolute;
+  top: 398px;
+  width: 307px;
+}
+
+.option .overlap-group {
+  background-color: #73ab6b;
+  border-radius: 6px;
+  height: 50px;
+  position: relative;
+  width: 305px;
+}
+
+.option .div {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 106px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 93px;
+}
+
+.option .text-wrapper-2 {
+  color: #414042;
+  font-family: "Roboto", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 520px;
+  white-space: nowrap;
+  width: 132px;
+}
